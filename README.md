@@ -1,2 +1,1 @@
-# Arduino-Servo-Motor
-Arduino Servo Motor Side Project
+<img src="Board.jpeg">
