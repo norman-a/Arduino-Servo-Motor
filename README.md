@@ -7,8 +7,8 @@ The circuit design of the project looks like the following:
 <img width="500" src="Circuit.jpeg">
 
 We have two central pieces of hardware:
-	<ol><li>Servo Motor: which only rotates when it's told to</li></ol>
- 	<ol><li>Potentiometer: is capable of producing a variable voltage within the circuit, letting us send the motor different signals</li></ol>
+	<ol><li>Servo Motor: which only rotates when it's told to</li>
+ 	<li>Potentiometer: is capable of producing a variable voltage within the circuit, letting us send the motor different signals</li></ol>
 
 <img width="500" src="Board.jpeg">
 
